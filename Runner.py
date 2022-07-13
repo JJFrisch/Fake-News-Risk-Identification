@@ -1,6 +1,13 @@
-print("Helllooooo!")
 
 # import data
-
-workbook = pd.read_excel('Databases/archive (1).zip')
-workbook.head()
+import xlrd
+ 
+# Give the location of the file
+loc = ("Databases/dataset1/Fake.csv")
+ 
+wb = xlrd.open_workbook(loc)
+sheet = wb.sheet_by_index(0)
+sheet.cell_value(0, 0)
+ 
+# Extracting number of rows
+print(sheet.nrows)
