@@ -40,3 +40,5 @@ Tree boosting is a highly effective and widely used machine learning method. In 
 
 https://docs.google.com/document/d/1aaY2hRCRSlCajybiN_aJmWEdbDknDrmo/edit?usp=sharing&ouid=113375915943200795842&rtpof=true&sd=true
 
+https://docs.google.com/presentation/d/1Z2e6eevhT8K1k-RBiA-7mnOeBslRVWdWbyYz90iVpec/edit?usp=sharing
+
