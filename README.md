@@ -1,5 +1,5 @@
 Fake News Risk Identifier
-Jake Frischmann, Eesha Shara, Shivansh Bansal
+
 
 End Goal:
 	Train a model to scan a website’s text and predict (0-1) if the website contains fake news, misinformation, or disinformation.
