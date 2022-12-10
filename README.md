@@ -1,9 +1,6 @@
 Fake News Risk Identifier
 
 
-Check out main_runner for code
-
-
 End Goal:
 	Train a model to scan a website’s text and predict (0-1) if the website contains fake news, misinformation, or disinformation.
 
